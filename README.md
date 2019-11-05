@@ -1,45 +1,34 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# CoinChange
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: Dividir para Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0031982  |  João Pedro Mota Jardim |
+| 16/0016428  |  Paulo Victor de Menezes Lopes |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre
+O objetivo deste projeto é retornar a quantidade inversões em um vetor. O vetor é gerado aleatóriamente e após isto, as inversões são contadas a medida que o vetor é ordenado, tendo uma visualização gráfica para melhor identificação.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+![Imagem inicial](https://github.com/projeto-de-algoritmos/Greed_CoinChange/blob/master/imagens/inicial.png)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+![Imagem inicial com gráfico](https://github.com/projeto-de-algoritmos/Greed_CoinChange/blob/master/imagens/inicial_grafico.png)
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+![Imagem metade ordenado](https://github.com/projeto-de-algoritmos/Greed_CoinChange/blob/master/imagens/metade.png)
 
+![Imagem final](https://github.com/projeto-de-algoritmos/D-C_Counting-inversions/blob/master/imagens/final.png)
 
+## Instalação
+**Linguagem**: C<br>
+
+Para rodar o projeto, execute na pasta onde ele se encontra o comando:<br>
+``gcc Counting-inversions.c -o Counting-inversions && ./Counting-inversions``
+
+## Uso
+O próprio programa gera um vetor aleatório (até o número 40 para que coubesse na tela do computador quando plotasse o gráfico), portanto será necessário apenas clicar no enter para começar a execução.
 
 
