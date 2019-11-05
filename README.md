@@ -1,7 +1,7 @@
 # CoinChange
 
 **Número da Lista**: 4<br>
-**Conteúdo da Disciplina**: Dividir para Conquistar<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -10,7 +10,7 @@
 | 16/0016428  |  Paulo Victor de Menezes Lopes |
 
 ## Sobre
-O objetivo deste projeto é retornar a quantidade inversões em um vetor. O vetor é gerado aleatóriamente e após isto, as inversões são contadas a medida que o vetor é ordenado, tendo uma visualização gráfica para melhor identificação.
+O objetivo deste projeto é retornar a quantidade inversões em um vetor. O vetor é gerado aleatóriamente e após isto, as inversões são contadas a medida que o vetor é ordenado pelo merge sort, tendo uma visualização gráfica para melhor identificação.
 
 ## Screenshots
 
