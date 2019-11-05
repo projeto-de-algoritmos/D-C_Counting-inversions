@@ -14,11 +14,11 @@ O objetivo deste projeto é retornar a quantidade inversões em um vetor. O veto
 
 ## Screenshots
 
-![Imagem inicial](https://github.com/projeto-de-algoritmos/Greed_CoinChange/blob/master/imagens/inicial.png)
+![Imagem inicial](https://github.com/projeto-de-algoritmos/D-C_Counting-inversions/blob/master/imagens/inicial.png)
 
-![Imagem inicial com gráfico](https://github.com/projeto-de-algoritmos/Greed_CoinChange/blob/master/imagens/inicial_grafico.png)
+![Imagem inicial com gráfico](https://github.com/projeto-de-algoritmos/D-C_Counting-inversions/blob/master/imagens/inicial_grafico.png)
 
-![Imagem metade ordenado](https://github.com/projeto-de-algoritmos/Greed_CoinChange/blob/master/imagens/metade.png)
+![Imagem metade ordenado](https://github.com/projeto-de-algoritmos/D-C_Counting-inversions/blob/master/imagens/metade.png)
 
 ![Imagem final](https://github.com/projeto-de-algoritmos/D-C_Counting-inversions/blob/master/imagens/final.png)
 
